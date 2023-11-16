@@ -4,7 +4,7 @@
 
 ## Temario
 - Propedéutico: Chat GPT + otras herramientas
-- Módulo 1: Intro a la Web
+- [Módulo 1: Intro a la Web](temario/modulo-1) 
 - Módulo 2: JavaScript
 - Módulo 3: Computer Science
 - Módulo 4: JavaScript Avanzado
